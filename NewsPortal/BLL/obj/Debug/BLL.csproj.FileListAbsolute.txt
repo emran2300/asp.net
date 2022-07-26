@@ -1,0 +1,15 @@
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\BLL.dll.config
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\BLL.dll
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\BLL.pdb
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\DAL.dll
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\EntityFramework.dll
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\DAL.pdb
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\DAL.dll.config
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\EntityFramework.xml
+D:\GitHub\asp.net\NewsPortal\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\asp.net\NewsPortal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\GitHub\asp.net\NewsPortal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\GitHub\asp.net\NewsPortal\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\GitHub\asp.net\NewsPortal\BLL\obj\Debug\BLL.dll
+D:\GitHub\asp.net\NewsPortal\BLL\obj\Debug\BLL.pdb
